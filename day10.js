@@ -1,0 +1,9 @@
+                        //  MRF
+
+// M  (map)
+
+// syntax
+// var_name.map ((value,index,actualarray)=>)
+
+const num = [1,2,3,4,5,6,7,8,9,10]
+const map = num.map 
